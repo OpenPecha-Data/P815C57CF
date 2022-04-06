@@ -1,0 +1,33 @@
+id: P815C57CF
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1PD104832
+  instance_id: http://purl.bdrc.io/resource/IE1PD104832
+  collection_id: http://purl.bdrc.io/resource/PR0ET005
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་ཀྱི་གསུང་ཆོས་སྐོར།
+  alt_title:
+    en-x-mixed:
+    - Rṅog lo rtsā ba Blo-ldan-śes-rab kyi gsuṅ chos skor /Dpal-brtsegs Bod yig dpe
+      rñiṅ źib ʼjug khaṅ nas bsgrigs.
+    zh-hans:
+    - 俄 洛丹西绕卷
+  author: http://purl.bdrc.io/resource/P2551
+  publisher: KarmaDelek
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    3b33c6edc60849019b09adcc6dbc1c52:
+      title: ༄༅།་།ཤེས་རབ་སྙིང་པོའི་རྒྱ་ཆེར་འགྲེལ་གྱི་བཤད་པ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT1PD104832_001_0011.txt
+      reference: http://purl.bdrc.io/resource/VLB332D680F30DF7D3
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1PD104832
+  - http://purl.bdrc.io/resource/W1PD104832
+created_at: '2021-12-24T17:29:05.172220'
+last_modified_at: '2021-12-24T17:29:05.172228'
